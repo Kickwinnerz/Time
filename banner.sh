@@ -41,6 +41,6 @@ echo -e "
           \e[1;32m (@      \e[1;31m  ;;\e[1;32m ╲▂▂▂▂▂▂╱ \e[31m;;
                       \e[1;31m                     "
 
-echo -e "                $green M $red S $purple F $reset - $blue A $red N $reset D $GreenF R $purple O            "
+echo -e "                $green M $red R $purple D $reset - $blue E $red V $reset I             "
 echo ''
 banner
